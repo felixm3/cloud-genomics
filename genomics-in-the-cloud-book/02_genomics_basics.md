@@ -17,4 +17,4 @@
 - 'Although the X-shaped form is their most common representation in popular media, our chromosomes don’t spend much time looking like that. Most of the time they are in a rod-shaped form called a chromatid.'
 - 'When the single chromatid is copied ahead of a cell division event, the two identical chromatids are connected by a central region called the centromere, resulting in the popular X shape.'
 - 'Just before the cell division that produces eggs and sperm cells, the parental chromosome copies pair up and swap segments with each other in a process called chromosomal recombination, which shuffles the combinations of physically linked traits that will be transmitted to the progeny.'
-- 
+- 'The central dogma of biology: DNA leads to RNA; RNA leads to amino acids; amino acids lead to protein.'
