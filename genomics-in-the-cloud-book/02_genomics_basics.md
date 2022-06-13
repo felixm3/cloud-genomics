@@ -18,3 +18,9 @@
 - 'When the single chromatid is copied ahead of a cell division event, the two identical chromatids are connected by a central region called the centromere, resulting in the popular X shape.'
 - 'Just before the cell division that produces eggs and sperm cells, the parental chromosome copies pair up and swap segments with each other in a process called chromosomal recombination, which shuffles the combinations of physically linked traits that will be transmitted to the progeny.'
 - 'The central dogma of biology: DNA leads to RNA; RNA leads to amino acids; amino acids lead to protein.'
+- DNA is transcribed into different types of RNA
+- messenger RNA is translated into amino acids which are assembled into proteins
+- 'The genetic code is a set of three-letter combinations of nucleotides called codons, each of which corresponds to a specific amino acid or stop signal.' 
+- 'the ribosome reads each codon and lines up the corresponding amino acid to add it to the chain, which will eventually become a protein.'
+- 'The genetic code connects three-letter codons in a messenger RNA sequence to specific amino acids.'
+- 'changing the sequence of the DNA can lead to changes in the amino acid sequence of the protein, which can affect its function.'
